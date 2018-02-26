@@ -5,7 +5,7 @@
 
 #### Download Plugin from Wordpress
 
-* **File Manager Advanced
+* **File Manager Advanced**
 * https://wordpress.org/plugins/file-manager-advanced/
 
 
