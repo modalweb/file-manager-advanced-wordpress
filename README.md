@@ -1,6 +1,6 @@
 # File Manager Advanced Plugin for Wordpress
 
-_**Description:** File Manager is a tool for files management in wordpress. Edit, Delete, upload, delete, download, zip, copy etc multiple operations, No need of any cpanel and FTP. You can access files inside and outside wordpress root directory.
+**Description:** File Manager is a tool for files management in wordpress. Edit, Delete, upload, delete, download, zip, copy etc multiple operations, No need of any cpanel and FTP. You can access files inside and outside wordpress root directory.
 
 
 #### Download Plugin from Wordpress
